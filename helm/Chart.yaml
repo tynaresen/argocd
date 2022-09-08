@@ -1,0 +1,6 @@
+apiVersion: v2
+name: nginx
+description: Hello World with nginx
+type: application
+version: 0.1.0 # Helm chart version
+appVersion: "0.1.0" # fleet-of-doom version
